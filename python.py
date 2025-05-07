@@ -1,1 +1,1 @@
-print("Hello everyone veda")
+print("Hello everyonedew")
